@@ -1,0 +1,2 @@
+# yangrui.com
+my blog
